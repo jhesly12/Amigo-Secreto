@@ -1,6 +1,6 @@
 # Amigo Secreto - Challenge Alura
 
-![alt text](.assets/Juego.png)
+![alt text](assets/Juego.png)
 
 ## Descripción
 
