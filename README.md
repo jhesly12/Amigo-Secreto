@@ -10,19 +10,19 @@ El siguiente proyecto consiste en desarrollar una aplicación que permite almace
 
 - **Agregar nombres**: Escribir el nombre en el campo de texto y darle click al botón "Añadir" para que se puede almacenar los nombres que desees que jueguen al Amigo Secreto. Tener en cuenta que el campo no debe estar vacío.
 
-![alt text](.assets/agregarNomb.png)
+![alt text](assets/agregarNomb.png)
 
 - **Lista de jugadores**: Al añadir los nombres que el usuario eligió, estos se mostrarás en la parte inferior del campo de texto en forma de lista para observar los participantes.
 
-![alt text](.assets/Lista.png)
+![alt text](assets/Lista.png)
 
 - **Sortear amigo secreto**: Al darle click en el botón "Sortear amigo", automáticamente se elegirá uno al azar y mostrará un mensaje con el nombre elegido. Ejemplo: "El amigo secreto es Jhesly".
 
-![alt text](.assets/sorteo.png)
+![alt text](assets/sorteo.png)
 
 - **Deshabilitación**: Luego de elegir el Amigo Secreto, los botones de deshabilitarán y cambiarán de color. Para jugar nuevamente, actualizar la página.
 
-![alt text](.assets/deshabil.png)
+![alt text](assets/deshabil.png)
 
 ## ¿Cómo se usa la aplicación?
 
